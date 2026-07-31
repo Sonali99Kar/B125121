@@ -1,22 +1,21 @@
-# lab1
+# Object-Oriented Programming (OOP) - Lab Work
 
+## Student Information
 
+- **Name:** SONALI SWETAPADMA KAR
+- **Student ID:** B125121
+- **Branch:** CSE-B
+- **Semester:** 3rd
 
-NAME - SONALI SWETAPADMA KAR
+---
 
+## Overview
 
+This repository contains C source code and practical solutions developed during the Object-Oriented Programming (OOP) laboratory sessions.
 
-ID - B125121
+---
 
+## Technical Details
 
-
-BRANCH - CSEB
-
-
-
-SEMESTER - THIRD
-
-
-
-This is the code for the question given in the oop lab
-
+- **Language:** C
+- **Course:** Object-Oriented Programming Laboratory
