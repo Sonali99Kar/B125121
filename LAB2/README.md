@@ -1,4 +1,4 @@
-# Lab 2 - Data Structures & Algorithms
+# Lab 2 - OOP
 
 This directory contains C++ solutions for the **Lab 2** assignment problems.
 
